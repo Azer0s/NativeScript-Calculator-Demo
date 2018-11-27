@@ -1,0 +1,22 @@
+<GridLayout columns="*, *, *, *" rows="auto, auto, *, *, *, *, *" >
+  <Label class="result" text="{{ result }}" colSpan="4"></Label>
+  <Label text="{{ operation }}" row="1" colSpan="4"></Label>
+  <Button (tap)="append('7')" row="2" class="numbers" col="0" text="7"></Button>
+  <Button (tap)="append('8')" row="2" class="numbers" col="1" text="8"></Button>
+  <Button (tap)="append('9')" row="2" class="numbers" col="2" text="9"></Button>
+  <Button (tap)="append('+')" row="2" class="controls" col="4" text="+"></Button>
+  <Button (tap)="append('4')" row="3" class="numbers" col="0" text="4"></Button>
+  <Button (tap)="append('5')" row="3" class="numbers" col="1" text="5"></Button>
+  <Button (tap)="append('6')" row="3" class="numbers" col="2" text="6"></Button>
+  <Button (tap)="append('-')" row="3" class="controls" col="4" text="-"></Button>
+  <Button (tap)="append('1')" row="4" class="numbers" col="0" text="1"></Button>
+  <Button (tap)="append('2')" row="4" class="numbers" col="1" text="2"></Button>
+  <Button (tap)="append('3')" row="4" class="numbers" col="2" text="3"></Button>
+  <Button (tap)="append('X')" row="4" class="controls" col="3" text="X"></Button>
+  <Button (tap)="append('0')" row="5" class="numbers" col="0" colSpan="2" text="0"></Button>
+  <Button (tap)="append('.')" row="5" class="controls" col="2" text="."></Button>
+  <Button (tap)="append('/')" row="5" class="controls" col="3" text="/"></Button>
+  <Button (tap)="undo()" row="6" class="controls" col="0" text="↶"></Button>
+  <Button (tap)="clear()" row="6" class="controls" col="1" text="⌧"></Button>
+  <Button (tap)="evaluate()" row="6" class="controls" col="2" colSpan="2" text="="></Button>
+</GridLayout>

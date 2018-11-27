@@ -1,0 +1,22 @@
+{
+	"time": "Tue Nov 27 2018 12:39:32 GMT+0100 (GMT+01:00)",
+	"nativePlatformStatus": "1",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "b9da99a7ea5cd7da20bbdbf8c40d36fd6b421179fe70b91b21f752ef47c1a3fa",
+	"changesRequireBuildTime": "Tue Nov 27 2018 10:55:58 GMT+0100 (GMT+01:00)",
+	"appFilesHashes": {
+		"/mnt/c/Users/ariel/workspace/NativeScriptCalculator/src/app/app-routing.module.js": "76ef0f5360a587a1af901c2241a4b351eea2c9ef",
+		"/mnt/c/Users/ariel/workspace/NativeScriptCalculator/src/app/app.component.html": "a6f2024e8335a0ceef503c571f4c8914d93d69d6",
+		"/mnt/c/Users/ariel/workspace/NativeScriptCalculator/src/app/app-routing.module.ts": "41c180178c8e336eb02489aaaee38ece91bfbdf6",
+		"/mnt/c/Users/ariel/workspace/NativeScriptCalculator/src/app/app.component.js": "e9ee8ec70129b22123b528efbf5f3a5ce361592b",
+		"/mnt/c/Users/ariel/workspace/NativeScriptCalculator/src/app/app.component.ts": "a5187625110b2594c73f62dd8b2c8486c6a5c67d",
+		"/mnt/c/Users/ariel/workspace/NativeScriptCalculator/src/app/app.module.js": "764a6b33adb3fdfc2d2d94e4878e706a9dd4264b",
+		"/mnt/c/Users/ariel/workspace/NativeScriptCalculator/src/app/app.module.ts": "2b345c8b7e0a1decc5c8e76d506da40cb219578e",
+		"/mnt/c/Users/ariel/workspace/NativeScriptCalculator/src/app.css": "efdf13366c36f59ca6bb5e748a875b533f309e38",
+		"/mnt/c/Users/ariel/workspace/NativeScriptCalculator/src/main.js": "fa6ba2c09a97be4b4b3df5980c3f54c8030c3e3d",
+		"/mnt/c/Users/ariel/workspace/NativeScriptCalculator/src/main.ts": "f91f1f60268600613f58424b2be0dc632a51a3d9",
+		"/mnt/c/Users/ariel/workspace/NativeScriptCalculator/src/package.json": "62db8f086c6c89608370f1d52d8bcf671ce139db"
+	}
+}

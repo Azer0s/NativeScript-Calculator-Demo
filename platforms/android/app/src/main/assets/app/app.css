@@ -1,0 +1,35 @@
+@import '~nativescript-theme-core/css/core.light.css';
+
+button, label{
+    horizontal-align: center;    
+}
+
+gridlayout{
+    background-color: black;
+}
+
+label {
+    font-size: 36;
+    color: white;
+}
+
+label.result {
+    font-size: 42;
+    horizontal-align: left;
+    color: white;
+}
+
+button{
+    font-size: 36;
+    width: 100%;
+}
+
+.controls{
+    background-color: rgb(255, 149, 0);
+    color: white;
+}
+
+.numbers{
+    background-color: #C0C0C0;
+    color: black;
+}
